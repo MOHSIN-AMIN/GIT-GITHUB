@@ -1,1 +1,1 @@
-this is for tetorial purpose
+this is for tutorial purpose
