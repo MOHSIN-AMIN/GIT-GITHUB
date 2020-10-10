@@ -1,2 +1,1 @@
-# GIT-GITHUB
-HI GIT
+this is for tetorial purpose
